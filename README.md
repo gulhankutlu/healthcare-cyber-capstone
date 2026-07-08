@@ -207,7 +207,7 @@ This project demonstrates knowledge and practical application in:
 
 ## Planned Repository Contents
 
-The completed repository will include:
+Planned additions to this repository include:
 
 - Public portfolio version of the capstone report
 - Executive summary
@@ -234,7 +234,7 @@ All third-party standards, frameworks, publications, and guidance remain the pro
 
 **Gulhan Kutlu**
 
-Master’s Degree in Cybersecurity  
+Master of Science in Cybersecurity  
 Strayer University
 
 © 2026 Gulhan Kutlu. All rights reserved.
